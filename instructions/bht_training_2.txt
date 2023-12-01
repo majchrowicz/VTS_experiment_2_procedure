@@ -1,0 +1,10 @@
+Na ekranie bêd¹ kolejno pojawia³y siê pary ró¿nych figur. Jedna i tylko jedna figura w ka¿dej parze posiada pewn¹ interesuj¹c¹ nas cechê, któr¹ trzeba wykryæ.
+
+Wciskaj¹c D sprawdzisz, czy tê cechê posiada figura umieszczona po lewej stronie.
+Wciskaj¹c K sprawdzisz, czy tê cechê posiada figura umieszczona po prawej stronie.
+
+Co wa¿ne, odpowiedzi mo¿esz udzieliæ dopiero, gdy figura ZNIKNIE. Jeœli udzielisz odpowiedzi gdy figura wci¹¿ bêdzie widoczna na ekranie, pope³nisz b³¹d. Zaczekaj wiêc, a¿ figura zniknie, po czym zareaguj.
+
+Po wciœniêciu jednego z klawiszy otrzymasz informacjê zwrotn¹ - dŸwiêk wysoki dla podpowiedzi pozytywnej, dŸwiêk niski dla negatywnej. Podobnie jak w poprzedniej czêœci, dŸwiêk bêdzie opóŸniony od naciœniêcia klawisza o 100 do 1000 ms i po jego us³yszeniu pojawi siê skala do oszacowanie tego opóŸnienia.
+
+Naciœnij Spacjê, aby kontynuowaæ.

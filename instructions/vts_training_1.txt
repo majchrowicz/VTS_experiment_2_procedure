@@ -1,0 +1,7 @@
+Twoim zadaniem bêdzie wskazywanie, w którym miejscu znajduje siê figura lub jakiego jest ona kszta³tu.
+
+W ka¿dej próbie na pocz¹tku zobaczysz na ekranie 3 poziomo u³o¿one kratki. Po chwili w 1 z tych kratek pojawi siê pojedyncza figura. Bêdzie to trójk¹t, kwadrat lub ko³o, umieszczone w lewej, œrodkowej, lub prawej kratce. Twoim zadaniem bêdzie odpowiedzieæ w którym miejscu wyœwietli³a siê figura LUB jaki mia³a kszta³t. W ka¿dej próbie mo¿esz samodzielnie decydowaæ, na które zadanie chcesz odpowiedzieæ: kszta³t czy lokalizacja. 
+
+Co wa¿ne, odpowiedzi mo¿esz udzieliæ dopiero, gdy figura ZNIKNIE. Jeœli udzielisz odpowiedzi gdy figura wci¹¿ bêdzie widoczna na ekranie, pope³nisz b³¹d. Zaczekaj wiêc, a¿ figura zniknie, po czym zareaguj.
+
+Naciœnij Spacjê, aby kontynuowaæ.

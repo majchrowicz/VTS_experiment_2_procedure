@@ -1,0 +1,5 @@
+Teraz po³¹czymy ze sob¹ dwa zadania które do tej pory æwiczy³eœ/aœ - oceniania lokalizacji/kszta³tu figury oraz szacowania opóŸnienia miêdzy klawiszem a dŸwiêkiem.
+
+Tak jak poprzednio, na pocz¹tku zobaczysz 3 kratki, a po chwili w 1 z nich pojawi siê figura. Gdy zniknie, udziel odpowiedzi dotycz¹cej jej lokalizacji lub kszta³tu.  Postaraj siê wybieraæ zadania w sposób niezaplanowany, spontaniczny, czy wrêcz losowy. Naciœniêcie klawisza odpowiedzi spowoduje dŸwiêk, który pojawi siê jednak po opóŸnieniu, wahaj¹cym siê od 100 do 1000 ms. Po us³yszeniu dŸwiêku, oszacuj interwa³ opóŸnienia u¿ywaj¹c widocznej na ekranie skali.
+
+Naciœnij Spacjê, aby rozpocz¹æ.

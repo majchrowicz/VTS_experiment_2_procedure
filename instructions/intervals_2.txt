@@ -1,0 +1,5 @@
+A teraz przeæwiczysz samodzieln¹ ocenê interwa³ów.
+
+Twoim zadaniem jest naciskanie Spacji i oszacowywanie, z jakim opóŸnieniem od naciœniêcia pojawi³ siê dŸwiêk. OpóŸnienie to bêdzie siê zmieniaæ pomiêdzy próbami, mieszcz¹c siê jednak zawsze w przetrenowanym ju¿ przedziale od 100 do 1000 ms. Po naciœniêciu Spacji i us³yszeniu dŸwiêku na ekranie pojawi siê skala na której zaznaczysz, jak d³ugie by³o Twoim zdaniem opóŸnienie. Pocz¹tkowa pozycja wskaŸnika na skali bêdzie losowa.
+
+Naciœnij Spacjê, aby rozpocz¹æ trening.

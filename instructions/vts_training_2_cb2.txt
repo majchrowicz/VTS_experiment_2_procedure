@@ -1,0 +1,19 @@
+W zale¿noœci od tego, które zadanie wybierzesz, bêdziesz reagowaæ praw¹ lub lew¹ rêk¹:  
+
+Aby odpowiedzieæ nt. KSZTA£TU figury, wybierz klawisze lew¹ rêk¹:
+Trójk¹t - W
+Kwadrat - D
+Ko³o - lewy Alt
+
+Aby odpowiedzieæ nt. LOKALIZACJI figury, wybierz klawisze praw¹ rêk¹:
+Prawo - O
+Œrodek - K
+Lewo - prawy Alt
+
+Po krótkiej chwili od udzielenia odpowiedzi otrzymasz dŸwiêkow¹ informacjê zwrotn¹, czy Twoja odpowiedŸ by³a prawid³owa, czy b³êdna. DŸwiêk wysoki oznacza odpowiedŸ prawid³ow¹, a dŸwiêk niski - b³êdn¹. 
+
+Naciœnij Spacjê, aby kontynuowaæ.
+
+
+
+

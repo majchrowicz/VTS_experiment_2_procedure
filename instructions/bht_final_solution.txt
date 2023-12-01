@@ -1,0 +1,12 @@
+Teraz zdecyduj, o jaką cechę chodziło w tym zadaniu - nawet jeżeli nie jesteś do końca pewny/a, jakie jest poprawne rozwiązanie.
+
+1 - Figura zawiera literę 'R'
+2 - Figura zawiera literę 'r'
+3 - Figura jest duża
+4 - Figura jest mała
+5 - Figura jest kwadratem
+6 - Figura jest trójkątem
+7 - Figura jest po lewej stronie
+8 - Figura jest po prawej stronie
+9 - Figura jest gładka
+0 - Figura jest kreskowana
